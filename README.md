@@ -18,11 +18,11 @@
 ```text
 oss-audit-24BCE10301/
 ├── README.md
-├── script1_system_identity.sh
-├── script2_package_inspector.sh
-├── script3_disk_permission_auditor.sh
-├── script4_log_analyzer.sh
-└── script5_manifesto_generator.sh
+├── script1.sh
+├── script2.sh
+├── script3.sh
+├── script4.sh
+└── script5.sh
 ```
 
 ## Scripts Overview
